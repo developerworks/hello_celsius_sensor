@@ -12,12 +12,19 @@
 ## 原料
 
 树莓派3, B型
+
 DS18B20传感器
+
 ![t02](https://cloud.githubusercontent.com/assets/725190/21265400/3b2c75cc-c3dc-11e6-8916-82249d470ba6.png)
+
 4.7KΩ 电阻(一分钱一颗)
+
 ![img_1633](https://cloud.githubusercontent.com/assets/725190/21337521/e2d12f74-c6a8-11e6-8963-d4475c8eb5be.png)
+
 面包板(图片省略, 下文有)
+
 公母头杜邦线
+
 ![img_1634](https://cloud.githubusercontent.com/assets/725190/21337523/e2d1eb08-c6a8-11e6-8b11-3b5fc24aabd0.png)
 
 
@@ -25,12 +32,15 @@ DS18B20传感器
 ## 连接温度传感器
 
 接线图
+
 ![ds18b201](https://cloud.githubusercontent.com/assets/725190/21337530/eaea7c42-c6a8-11e6-9ad3-71633d2f9e18.png)
 
 面包板内部连通图
+
 ![breadboard-connections](https://cloud.githubusercontent.com/assets/725190/21265399/3af7eb04-c3dc-11e6-88d1-bc9810191d95.png)
 
 面包板接线图
+
 ![img_1627](https://cloud.githubusercontent.com/assets/725190/21337525/e2d22654-c6a8-11e6-8cc3-9fef50419818.png)
 
 > - 黑色为地线
@@ -42,9 +52,11 @@ DS18B20传感器
 
 
 树莓派主板接线
+
 ![img_1629](https://cloud.githubusercontent.com/assets/725190/21337524/e2d1f45e-c6a8-11e6-90d5-14c137c1068d.png)
 
 全体照
+
 ![img_1630](https://cloud.githubusercontent.com/assets/725190/21337522/e2d1cc86-c6a8-11e6-97e0-1acc1e6a5709.png)
 
 
