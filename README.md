@@ -33,7 +33,8 @@ DS18B20传感器
 
 接线图
 
-![ds18b201](https://cloud.githubusercontent.com/assets/725190/21337530/eaea7c42-c6a8-11e6-9ad3-71633d2f9e18.png)
+![ds18b201](https://cloud.githubusercontent.com/assets/725190/21338899/3b202836-c6b5-11e6-9173-b5132200ef61.png)
+
 
 面包板内部连通图
 
