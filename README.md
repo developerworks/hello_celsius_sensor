@@ -53,6 +53,8 @@ DS18B20传感器
 
 
 树莓派主板接线
+- 左侧三根是连接到电脑的串口线, 用于控制台输入输出.
+- 右侧为DS18B20传感器的三个引脚
 
 ![img_1629](https://cloud.githubusercontent.com/assets/725190/21337524/e2d1f45e-c6a8-11e6-90d5-14c137c1068d.png)
 
