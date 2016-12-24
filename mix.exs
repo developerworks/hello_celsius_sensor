@@ -28,10 +28,11 @@ defmodule HelloCelsiusSensor.Mixfile do
         :logger,
         :nerves_firmware_http,
         :nerves_interim_wifi,
-        :nerves_lora_gateway,
+        # :nerves_lora_gateway,
         :nerves_networking,
         :nerves_ntp,
-        :nerves_uart
+        :nerves_uart,
+        # :dht,
       ]
     ]
   end
@@ -41,10 +42,12 @@ defmodule HelloCelsiusSensor.Mixfile do
       {:nerves, "~> 0.4.0"},
       {:nerves_firmware_http, github: "nerves-project/nerves_firmware_http"},
       {:nerves_interim_wifi, github: "nerves-project/nerves_interim_wifi"},
-      {:nerves_lora_gateway, github: "developerworks/nerves_lora_gateway"},
+      # {:nerves_lora_gateway, github: "developerworks/nerves_lora_gateway"},
       {:nerves_networking, github: "nerves-project/nerves_networking"},
       {:nerves_ntp, "~> 0.1.1"},
-      {:nerves_uart, "~> 0.1.1"}
+      {:nerves_uart, "~> 0.1.1"},
+      # {:dht, github: "almightycouch/elixir-dht-sensor"},
+      {:nerves_grove, "~> 0.5.0"},
     ]
   end
 
